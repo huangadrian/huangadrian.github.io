@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Adrian Huang"
+  navbar: 
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - projects.qmd 
+  page-footer:
+    left: |
+      &copy; Adrian Huang, 2025<br>
+      All content licensed under <i class='bi-badge-cc'></i>
+      [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Site built with <a href='https://quarto.org/'>Quarto</a>
+
+   
+      
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+editor: visual
+

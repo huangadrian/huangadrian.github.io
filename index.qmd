@@ -1,0 +1,19 @@
+---
+title: "Adrian Huang"
+about:
+  id: intro-heading
+  template: trestles
+  image: Images/2022Photo copy.jpg
+---
+
+
+
+::: {#intro-heading}
+Hi, my name is Adrian Huang, and I'm a junior studying Economics and Data Science. I'm on the Macalester Orchestra and club soccer team. I enjoy playing sports, listening/playing music, traveling, making paper airplanes, and almond butter.
+
+## Education
+
+Macalester College \| St. Paul MN <br> B.A. in Economics and Data Science \| Aug 2022 - May 2026
+:::
+
+
